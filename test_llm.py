@@ -11,3 +11,4 @@ response = completion(
 )
 
 print(response.choices[0].message.content)
+print("today's commit")
